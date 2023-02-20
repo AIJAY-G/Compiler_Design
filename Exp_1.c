@@ -1,4 +1,4 @@
-//IMPLEMENTATION OF SYMBOL TABLE//
+//IMPLEMENTATION OF SYMBOL TABLE
 
 #include<stdio.h>
 #include<malloc.h>
